@@ -1,0 +1,12 @@
+name: laneDetection
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - opencv
+  - matplotlib
+  - scikit-image
+  - moviepy
+  - ipython
+  - notebook
